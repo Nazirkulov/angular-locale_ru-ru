@@ -1,0 +1,17 @@
+{
+  "name": "angular-locale_ru-ru",
+  "main": "angular-locale_ru-ru.js",
+  "version": "1.0.0",
+  "description": "angular-locale_ru-ru.js",
+  "keywords": [
+    "angular",
+    "locale",
+    "ru-ru"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
